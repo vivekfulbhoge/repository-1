@@ -1,4 +1,6 @@
  Hello everyone
 ---- git commands
 by by 
+
+pull command
 ohhhh----------------
