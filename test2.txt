@@ -1,2 +1,7 @@
  Hello everyone
+<<<<<<< HEAD
 git commands
+=======
+---- git commands
+by by 
+>>>>>>> 1c0c2fce18c9a6dd707cadc56db44d5bc4843cdb
