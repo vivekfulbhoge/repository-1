@@ -1,2 +1,6 @@
+HEAD
 Hello frind 
-how are u
+how are
+hi  hellow
+every one
+ featureX
