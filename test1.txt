@@ -4,3 +4,6 @@ how are
 hi  hellow
 every one
  featureX
+
+
+new line added
